@@ -1,11 +1,11 @@
-baseurl: /starter
+baseurl: /sanantonio
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: sanantonio
 github_org: maptime
 maptime:
-  chapter: Chapter name
+  chapter: MaptimeSATX
   twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
